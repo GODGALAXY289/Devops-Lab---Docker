@@ -3,7 +3,7 @@
     stages{
       stage('#1. Checkout'){
         steps{
-          git url:https://github.com/GODGALAXY289/Devops-Lab---Docker:'main'
+          git url:github.com/GODGALAXY289/Devops-Lab---Docker:'main'
         }
       }
       
